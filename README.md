@@ -1,6 +1,7 @@
 # Markov chain Monte Carlo with PyMC3
 ### Chris Fonnesbeck
 ### PyData London 2019 Tutorial
+### github [mcmc_pydata_london_2019](https://github.com/fonnesbeck/mcmc_pydata_london_2019)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fonnesbeck/mcmc_pydata_london_2019/master)
 
